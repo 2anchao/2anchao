@@ -5,17 +5,6 @@
 Hi, I'm anchao
 <img src="https://komarev.com/ghpvc/?username=2anchao" alt="2anchao" />
 
-
-
-
-🔭 What I did over the past week :)
-<!--START_SECTION:waka-->
-```text
-deeplearning         6 hrs 54 mins   █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
-
-
 <!--
 **2anchao/2anchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
