@@ -4,10 +4,13 @@
 
 
 ### Github State
-
-[![2anchao's github stats](https://github-readme-stats.vercel.app/api?username=2anchao&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/2anchao/separable-U_Net"><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/username=2anchao&repo=MZBannerView&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></a>
-
-<a href="https://github.com/2anchao/FCOS_DET_MASK"><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/username=2anchao&repo=CustomPopwindow&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+##### 语义分割项目:
+深度可分离卷积在U_Net中的尝试：[Separable-U_Net](https://github.com/2anchao/separable-U_Net)    
+Backbone部分的深层特征融合，深度可分离卷积在ASPP中的尝试：[Deeplabv3+](https://github.com/2anchao/VovJpu)     
+##### 目标检测项目：
+利用FCOS训练口罩数据集，在疫情期间的尝试：[FCOS](https://github.com/2anchao/FCOS_DET_MASK)    
+YOLO训练交通人车非数据：[YOLO](https://github.com/2anchao/YOLO)     
+##### 模型压缩尝试：
+聚类量化：[Model Squeeze](https://github.com/2anchao/Model_Squeeze)     
+##### 其他工作：
+Backbone调研：[HS_RESNET](https://github.com/2anchao/HS_resnet18)    
