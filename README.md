@@ -4,7 +4,10 @@
 
 **语义分割项目**:   
 深度可分离卷积在U_Net中的尝试：[Separable-U_Net](https://github.com/2anchao/separable-U_Net)    
-Backbone部分的深层特征融合，深度可分离卷积在ASPP中的尝试：[Deeplabv3+](https://github.com/2anchao/VovJpu)     
+Backbone部分的深层特征融合，深度可分离卷积在ASPP中的尝试：[Deeplabv3+](https://github.com/2anchao/VovJpu)    
+| 深度可分离卷积在U_Net中的尝试 | [Separable-U_Net](https://github.com/2anchao/separable-U_Net) | 
+| ----- | ----- | 
+| Backbone部分的深层特征融合，深度可分离卷积在ASPP中的尝试 | [Deeplabv3+](https://github.com/2anchao/VovJpu) | 
 **目标检测项目**：   
 利用FCOS训练口罩数据集，在疫情期间的尝试：[FCOS](https://github.com/2anchao/FCOS_DET_MASK)    
 YOLO训练交通人车非数据：[YOLO](https://github.com/2anchao/YOLO)     
