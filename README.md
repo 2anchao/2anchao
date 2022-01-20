@@ -1,6 +1,7 @@
 ### Hi there，I'm AnChao 👋
 
-专注深度学习图像算法，博客:[CSDN](https://blog.csdn.net/weixin_41803339?spm=1001.2101.3001.5343)
+算法工程师. 熟悉各类深度学习算法. 🖥️🌏 <br/><br/>
+
 
 | **项目** | **代码** | 
 | ----- | ----- | 
@@ -14,3 +15,16 @@
 |聚类量化| [Model Squeeze](https://github.com/2anchao/Model_Squeeze)|    
 |**其他工作**|
 |Backbone调研|[HS_RESNET](https://github.com/2anchao/HS_resnet18)|   
+
+### About me
+- 📝 喜欢写写博客、分享一些算法心得[CSDN](https://blog.csdn.net/weixin_41803339?spm=1001.2101.3001.5343).<br/>
+- 🌏🌱🌲🌊 ⛰️ 灵魂喜欢旅游，但身体喜欢躺尸.<br/>
+- 🎾 王者荣耀贼强. <br/>
+- 📫 邮箱: an_chao1994@163.com
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
+</p>
