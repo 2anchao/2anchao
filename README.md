@@ -11,10 +11,13 @@
 | **目标检测项目**|  
 |利用FCOS训练口罩数据集，在疫情期间的尝试| [FCOS](https://github.com/2anchao/FCOS_DET_MASK)|    
 |YOLO训练交通人车非数据| [YOLO](https://github.com/2anchao/YOLO)|   
+|**细粒度分类**|  
+|细粒度分类|[NTS_NET](https://github.com/2anchao/NTS_NET)|  
 |**模型压缩尝试**|  
 |聚类量化| [Model Squeeze](https://github.com/2anchao/Model_Squeeze)|    
-|**其他工作**|
-|Backbone调研|[HS_RESNET](https://github.com/2anchao/HS_resnet18)|   
+|**其他工作**| 
+|Backbone调研|[HS_RESNET](https://github.com/2anchao/HS_resnet18)|  
+
 
 ### About me
 - 📝 喜欢写写博客、分享一些算法心得[CSDN](https://blog.csdn.net/weixin_41803339?spm=1001.2101.3001.5343).<br/>
